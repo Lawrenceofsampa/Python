@@ -1,2 +1,2 @@
 # Python
- Repertório dedicado a programas em python
+ Repertório dedicado a programas em **python**
