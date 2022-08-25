@@ -2,7 +2,10 @@
 'Volume = ∏ * raio² * altura'
 
 while True:
-    Raio = int(input('Entre com o rai(r): '))
+    Raio = int(input('Entre com o raio (r): '))
     Altura = float(input('Entre com a altura (a): '))
-    r = Raio
+    r = Raio * Raio
     a = Altura
+    Volume =  (3.14 * r) * a
+
+    print(f'O volume é: {Volume:6.2f}')
