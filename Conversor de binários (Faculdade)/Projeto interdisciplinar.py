@@ -110,11 +110,6 @@ while True:
                 octnum = int(octnum / 10)
         print("\nEquivalente a numero binário = ", binnum)
 
-
-        # Nome: Elizeu da silva   Rgm:5829788048
-        # Nome:Henrique Jorge Martins Figueiredo  Rgm: 42489625861
-        # Nome:Nathan Henrique Rgm: 29832004
-
     
 
 
