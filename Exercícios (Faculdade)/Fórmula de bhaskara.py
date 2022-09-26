@@ -17,8 +17,8 @@ while True:
         print('Sem raízes reais!')
 
     else:
-        x1 = (-B + Delta ** (1/2)) // (2 * A)
-        x2 = (-B - Delta ** (1/2)) // (2 * A)
+        x1 = (-B + Delta ** (1/2)) / (2 * A)
+        x2 = (-B - Delta ** (1/2)) / (2 * A)
         print(f'O valor de x1 é: {x1:0.0f}')
         print(f'O valor de x2 é: {x2:0.0f}')
         print('--------------------------------------------------------------------')
